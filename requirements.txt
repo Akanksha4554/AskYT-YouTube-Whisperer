@@ -1,0 +1,11 @@
+youtube_transcript_api
+streamlit
+google-generativeai
+python-dotenv
+pathlib
+fpdf
+googletrans==4.0.0-rc1
+textblob
+vaderSentiment
+speechrecognition google-cloud-speech
+pyaudio
